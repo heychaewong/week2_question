@@ -1,6 +1,6 @@
 from priority_queue import PriorityQueue
 def main():
-    pq = PriorityQueue()
+  pq = PriorityQueue()
   
     pq.push("Task 1", 3)
     pq.push("Task 2", 1)
